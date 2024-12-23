@@ -6,7 +6,7 @@ Overview of the Project
 
 In this project, I created a pirate intelligent agent using reinforcement learning, specifically deep Q-learning, to navigate a maze and find a treasure. The maze is an 8x8 grid with free and blocked cells, and the treasure is always in the bottom-right corner. The agent learns the best path to the treasure by training through repeated experiences.
 
-Work on the Project
+Work on the Project 
 
 Code Provided
 
